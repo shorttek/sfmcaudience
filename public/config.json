@@ -1,0 +1,45 @@
+{
+    "workflowApiVersion": "1.1",
+    "metaData":
+    {
+        "icon": "images/icon.png",
+        "category": "message"
+    },
+    "dataExtensionId" : "",
+    "type": "ContactAudience",
+    "lang":
+    {
+        "en-US":
+        {
+            "name": "Test Bed Audience",
+            "description": "Test Bed Audience"
+        }
+    },
+    "arguments":
+    {
+        
+    },
+    "configurationArguments":
+    {
+        "applicationExtensionKey": "mcjbaudience"
+    },
+    "wizardSteps": [
+    {
+        "label": "Step 1",
+        "key": "step1"
+    }],
+    "userInterfaces":
+    {
+        "configModal":
+        {
+            "fullscreen": true
+        }
+    },
+    "schema":
+    {
+        "arguments":
+        {
+            
+        }
+    }
+}
